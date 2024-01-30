@@ -1,0 +1,20 @@
+* {
+
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  border-radius: 10px;
+}
+
+.banner {
+  background-image: url(../poo.img/portfolio-background.png);
+  padding: 250px 0px;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+
+
+.backroundcolor{
+  background-image:url(./poo.img/form-backround.jpg);
+}
